@@ -1,0 +1,603 @@
+{
+ "muts": [],
+ "aa_muts": [],
+ "attr": {
+  "div": 0.0,
+  "num_date": 2006.0982053914438,
+  "num_date_confidence": [
+   2001.725221911341,
+   2009.7023711833865
+  ]
+ },
+ "branch_length": 0.0,
+ "clade": 0,
+ "children": [
+  {
+   "muts": [],
+   "aa_muts": [],
+   "attr": {
+    "div": 8.77976255034837,
+    "num_date": 2014.8779679417921,
+    "num_date_confidence": [
+     2014.4118942977022,
+     2015.2577992089384
+    ]
+   },
+   "branch_length": 8.77976255034837,
+   "clade": 1,
+   "children": [
+    {
+     "muts": [],
+     "aa_muts": [],
+     "attr": {
+      "div": 8.976828325669587,
+      "num_date": 2015.0750337171135,
+      "num_date_confidence": [
+       2014.8207311528995,
+       2015.5340047618429
+      ]
+     },
+     "branch_length": 0.19706577532121772,
+     "clade": 2,
+     "children": [
+      {
+       "muts": [],
+       "aa_muts": [],
+       "attr": {
+        "div": 9.531931594857108,
+        "num_date": 2015.6301369863008,
+        "location": "Australia",
+        "date": "2015-08-19",
+        "raw_date": "2015-08-19"
+       },
+       "branch_length": 0.5551032691875215,
+       "clade": 3,
+       "strain": "LEAF_20"
+      },
+      {
+       "muts": [],
+       "aa_muts": [],
+       "attr": {
+        "div": 9.531931594857108,
+        "num_date": 2015.6301369863008,
+        "location": "Australia",
+        "date": "2015-08-19",
+        "raw_date": "2015-08-19"
+       },
+       "branch_length": 0.5551032691875206,
+       "clade": 4,
+       "strain": "LEAF_19"
+      }
+     ],
+     "strain": "NODE_00002"
+    },
+    {
+     "muts": [],
+     "aa_muts": [],
+     "attr": {
+      "div": 8.886336704935179,
+      "num_date": 2014.984542096379,
+      "num_date_confidence": [
+       2014.7368211210476,
+       2015.3809277193516
+      ]
+     },
+     "branch_length": 0.10657415458680841,
+     "clade": 5,
+     "children": [
+      {
+       "muts": [],
+       "aa_muts": [],
+       "attr": {
+        "div": 9.53193159485711,
+        "num_date": 2015.6301369863008,
+        "location": "Australia",
+        "date": "2015-08-19",
+        "raw_date": "2015-08-19"
+       },
+       "branch_length": 0.6455948899219299,
+       "clade": 6,
+       "strain": "LEAF_18"
+      },
+      {
+       "muts": [],
+       "aa_muts": [],
+       "attr": {
+        "div": 9.16674503737978,
+        "num_date": 2015.2649504288236,
+        "num_date_confidence": [
+         2015.0105926773979,
+         2015.5136790684498
+        ]
+       },
+       "branch_length": 0.2804083324446007,
+       "clade": 7,
+       "children": [
+        {
+         "muts": [],
+         "aa_muts": [],
+         "attr": {
+          "div": 9.467968681968122,
+          "num_date": 2015.566174073412,
+          "num_date_confidence": [
+           2015.4518389716015,
+           2015.6612391191295
+          ]
+         },
+         "branch_length": 0.3012236445883425,
+         "clade": 8,
+         "children": [
+          {
+           "muts": [],
+           "aa_muts": [],
+           "attr": {
+            "div": 9.605904197597358,
+            "num_date": 2015.704109589041,
+            "location": "Australia",
+            "date": "2015-09-15",
+            "raw_date": "2015-09-15"
+           },
+           "branch_length": 0.1379355156292359,
+           "clade": 9,
+           "strain": "LEAF_17"
+          },
+          {
+           "muts": [],
+           "aa_muts": [],
+           "attr": {
+            "div": 9.583986389378438,
+            "num_date": 2015.6821917808222,
+            "location": "Australia",
+            "date": "2015-09-07",
+            "raw_date": "2015-09-07"
+           },
+           "branch_length": 0.11601770741031636,
+           "clade": 10,
+           "strain": "LEAF_15"
+          }
+         ],
+         "strain": "NODE_00005"
+        },
+        {
+         "muts": [],
+         "aa_muts": [],
+         "attr": {
+          "div": 9.2638406035599,
+          "num_date": 2015.3620459950037,
+          "num_date_confidence": [
+           2015.1590409548369,
+           2015.5896838766844
+          ]
+         },
+         "branch_length": 0.0970955661801205,
+         "clade": 11,
+         "children": [
+          {
+           "muts": [],
+           "aa_muts": [],
+           "attr": {
+            "div": 9.60590419759736,
+            "num_date": 2015.704109589041,
+            "location": "Australia",
+            "date": "2015-09-15",
+            "raw_date": "2015-09-15"
+           },
+           "branch_length": 0.34206359403745834,
+           "clade": 12,
+           "strain": "LEAF_16"
+          },
+          {
+           "muts": [],
+           "aa_muts": [],
+           "attr": {
+            "div": 9.583986389378438,
+            "num_date": 2015.6821917808222,
+            "location": "Australia",
+            "date": "2015-09-07",
+            "raw_date": "2015-09-07"
+           },
+           "branch_length": 0.32014578581853703,
+           "clade": 13,
+           "strain": "LEAF_14"
+          }
+         ],
+         "strain": "NODE_00006"
+        }
+       ],
+       "strain": "NODE_00004"
+      }
+     ],
+     "strain": "NODE_00003"
+    }
+   ],
+   "strain": "NODE_00001"
+  },
+  {
+   "muts": [],
+   "aa_muts": [],
+   "attr": {
+    "div": 1.8594421925040336,
+    "num_date": 2007.9576475839478,
+    "num_date_confidence": [
+     2005.085620175924,
+     2010.9469236008995
+    ]
+   },
+   "branch_length": 1.8594421925040336,
+   "clade": 14,
+   "children": [
+    {
+     "muts": [],
+     "aa_muts": [],
+     "attr": {
+      "div": 6.901794608555103,
+      "num_date": 2012.9999999999989,
+      "location": "China",
+      "date": "2013-XX-XX",
+      "raw_date": "2013-XX-XX"
+     },
+     "branch_length": 5.042352416051069,
+     "clade": 15,
+     "strain": "LEAF_13"
+    },
+    {
+     "muts": [],
+     "aa_muts": [],
+     "attr": {
+      "div": 8.181014202551971,
+      "num_date": 2014.2792195939958,
+      "num_date_confidence": [
+       2012.2586974474548,
+       2015.919533151519
+      ]
+     },
+     "branch_length": 6.321572010047937,
+     "clade": 16,
+     "children": [
+      {
+       "muts": [],
+       "aa_muts": [],
+       "attr": {
+        "div": 11.389192175292596,
+        "num_date": 2017.4873975667365,
+        "num_date_confidence": [
+         2017.2454285641154,
+         2017.6918390021717
+        ]
+       },
+       "branch_length": 3.2081779727406246,
+       "clade": 17,
+       "children": [
+        {
+         "muts": [],
+         "aa_muts": [],
+         "attr": {
+          "div": 11.77302748526854,
+          "num_date": 2017.8712328767124,
+          "location": "California",
+          "date": "2017-11-15",
+          "raw_date": "2017-11-15"
+         },
+         "branch_length": 0.38383530997594467,
+         "clade": 18,
+         "strain": "LEAF_9"
+        },
+        {
+         "muts": [],
+         "aa_muts": [],
+         "attr": {
+          "div": 11.77302748526854,
+          "num_date": 2017.8712328767124,
+          "location": "California",
+          "date": "2017-11-15",
+          "raw_date": "2017-11-15"
+         },
+         "branch_length": 0.38383530997594467,
+         "clade": 19,
+         "strain": "LEAF_10"
+        }
+       ],
+       "strain": "NODE_00009"
+      },
+      {
+       "muts": [],
+       "aa_muts": [],
+       "attr": {
+        "div": 9.262963481559577,
+        "num_date": 2015.3611688730034,
+        "num_date_confidence": [
+         2014.2407720525448,
+         2016.4031108634924
+        ]
+       },
+       "branch_length": 1.0819492790076062,
+       "clade": 20,
+       "children": [
+        {
+         "muts": [],
+         "aa_muts": [],
+         "attr": {
+          "div": 11.808643923624642,
+          "num_date": 2017.9068493150685,
+          "location": "California",
+          "date": "2017-11-28",
+          "raw_date": "2017-11-28"
+         },
+         "branch_length": 2.545680442065064,
+         "clade": 21,
+         "strain": "LEAF_12"
+        },
+        {
+         "muts": [],
+         "aa_muts": [],
+         "attr": {
+          "div": 10.396477447554155,
+          "num_date": 2016.494682838998,
+          "num_date_confidence": [
+           2015.875283417241,
+           2016.971717835112
+          ]
+         },
+         "branch_length": 1.1335139659945779,
+         "clade": 22,
+         "children": [
+          {
+           "muts": [],
+           "aa_muts": [],
+           "attr": {
+            "div": 10.442773407469577,
+            "num_date": 2016.5409787989133,
+            "num_date_confidence": [
+             2016.204247673645,
+             2017.0702904236334
+            ]
+           },
+           "branch_length": 0.0462959599154229,
+           "clade": 23,
+           "children": [
+            {
+             "muts": [],
+             "aa_muts": [],
+             "attr": {
+              "div": 11.622342553761609,
+              "num_date": 2017.7205479452055,
+              "location": "California",
+              "date": "2017-09-21",
+              "raw_date": "2017-09-21"
+             },
+             "branch_length": 1.1795691462920321,
+             "clade": 24,
+             "strain": "LEAF_1"
+            },
+            {
+             "muts": [],
+             "aa_muts": [],
+             "attr": {
+              "div": 10.610932631919423,
+              "num_date": 2016.7091380233633,
+              "num_date_confidence": [
+               2016.2873136291419,
+               2017.192750620833
+              ]
+             },
+             "branch_length": 0.16815922444984688,
+             "clade": 25,
+             "children": [
+              {
+               "muts": [],
+               "aa_muts": [],
+               "attr": {
+                "div": 11.59494529348758,
+                "num_date": 2017.6931506849314,
+                "location": "California",
+                "date": "2017-09-11",
+                "raw_date": "2017-09-11"
+               },
+               "branch_length": 0.9840126615681566,
+               "clade": 26,
+               "strain": "LEAF_4"
+              },
+              {
+               "muts": [],
+               "aa_muts": [],
+               "attr": {
+                "div": 11.545630224994534,
+                "num_date": 2017.6438356164383,
+                "location": "California",
+                "date": "2017-08-24",
+                "raw_date": "2017-08-24"
+               },
+               "branch_length": 0.9346975930751111,
+               "clade": 27,
+               "strain": "LEAF_5"
+              }
+             ],
+             "strain": "NODE_00013"
+            }
+           ],
+           "strain": "NODE_00012"
+          },
+          {
+           "muts": [],
+           "aa_muts": [],
+           "attr": {
+            "div": 10.473628924582147,
+            "num_date": 2016.5718343160258,
+            "num_date_confidence": [
+             2016.2451921803993,
+             2017.079740693647
+            ]
+           },
+           "branch_length": 0.07715147702799241,
+           "clade": 28,
+           "children": [
+            {
+             "muts": [],
+             "aa_muts": [],
+             "attr": {
+              "div": 10.543176926784467,
+              "num_date": 2016.6413823182284,
+              "num_date_confidence": [
+               2016.3727687965356,
+               2017.218387946952
+              ]
+             },
+             "branch_length": 0.06954800220232005,
+             "clade": 29,
+             "children": [
+              {
+               "muts": [],
+               "aa_muts": [],
+               "attr": {
+                "div": 11.597685019515204,
+                "num_date": 2017.695890410959,
+                "location": "California",
+                "date": "2017-09-12",
+                "raw_date": "2017-09-12"
+               },
+               "branch_length": 1.0545080927307369,
+               "clade": 30,
+               "strain": "LEAF_2"
+              },
+              {
+               "muts": [],
+               "aa_muts": [],
+               "attr": {
+                "div": 11.59494529348758,
+                "num_date": 2017.6931506849314,
+                "location": "California",
+                "date": "2017-09-11",
+                "raw_date": "2017-09-11"
+               },
+               "branch_length": 1.051768366703114,
+               "clade": 31,
+               "strain": "LEAF_3"
+              }
+             ],
+             "strain": "NODE_00015"
+            },
+            {
+             "muts": [],
+             "aa_muts": [],
+             "attr": {
+              "div": 10.820864396371043,
+              "num_date": 2016.9190697878148,
+              "num_date_confidence": [
+               2016.6035817797872,
+               2017.2688387759606
+              ]
+             },
+             "branch_length": 0.34723547178889613,
+             "clade": 32,
+             "children": [
+              {
+               "muts": [],
+               "aa_muts": [],
+               "attr": {
+                "div": 11.548369951021883,
+                "num_date": 2017.6465753424657,
+                "location": "California",
+                "date": "2017-08-25",
+                "raw_date": "2017-08-25"
+               },
+               "branch_length": 0.7275055546508404,
+               "clade": 33,
+               "strain": "LEAF_7"
+              },
+              {
+               "muts": [],
+               "aa_muts": [],
+               "attr": {
+                "div": 11.091392885887963,
+                "num_date": 2017.1895982773317,
+                "num_date_confidence": [
+                 2016.90144119495,
+                 2017.486753468437
+                ]
+               },
+               "branch_length": 0.27052848951691966,
+               "clade": 34,
+               "children": [
+                {
+                 "muts": [],
+                 "aa_muts": [],
+                 "attr": {
+                  "div": 11.77302748526854,
+                  "num_date": 2017.8712328767124,
+                  "location": "California",
+                  "date": "2017-11-15",
+                  "raw_date": "2017-11-15"
+                 },
+                 "branch_length": 0.6816345993805771,
+                 "clade": 35,
+                 "strain": "LEAF_11"
+                },
+                {
+                 "muts": [],
+                 "aa_muts": [],
+                 "attr": {
+                  "div": 11.178016679842827,
+                  "num_date": 2017.2762220712866,
+                  "num_date_confidence": [
+                   2017.0673695040432,
+                   2017.5227381423201
+                  ]
+                 },
+                 "branch_length": 0.08662379395486453,
+                 "clade": 36,
+                 "children": [
+                  {
+                   "muts": [],
+                   "aa_muts": [],
+                   "attr": {
+                    "div": 11.548369951021877,
+                    "num_date": 2017.6465753424657,
+                    "location": "California",
+                    "date": "2017-08-25",
+                    "raw_date": "2017-08-25"
+                   },
+                   "branch_length": 0.3703532711790507,
+                   "clade": 37,
+                   "strain": "LEAF_8"
+                  },
+                  {
+                   "muts": [],
+                   "aa_muts": [],
+                   "attr": {
+                    "div": 11.545630224994522,
+                    "num_date": 2017.6438356164383,
+                    "location": "California",
+                    "date": "2017-08-24",
+                    "raw_date": "2017-08-24"
+                   },
+                   "branch_length": 0.3676135451516943,
+                   "clade": 38,
+                   "strain": "LEAF_6"
+                  }
+                 ],
+                 "strain": "NODE_00018"
+                }
+               ],
+               "strain": "NODE_00017"
+              }
+             ],
+             "strain": "NODE_00016"
+            }
+           ],
+           "strain": "NODE_00014"
+          }
+         ],
+         "strain": "NODE_00011"
+        }
+       ],
+       "strain": "NODE_00010"
+      }
+     ],
+     "strain": "NODE_00008"
+    }
+   ],
+   "strain": "NODE_00007"
+  }
+ ],
+ "strain": "NODE_00000"
+}

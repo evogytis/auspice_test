@@ -32,7 +32,7 @@
   }
  },
  "defaults": {
-  "colorBy": "num_date"
+  "colorBy": "location"
  },
  "maintainer": [
   "Gytis Dudas",
