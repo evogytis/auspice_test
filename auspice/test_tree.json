@@ -1,0 +1,348 @@
+{
+ "clock_length": 0.0,
+ "num_date": 2005.4296942460444,
+ "y_value": 13.84765625,
+ "children": [
+  {
+   "clock_length": 9.450056374470371,
+   "num_date": 2014.8797506205149,
+   "y_value": 17.4375,
+   "children": [
+    {
+     "clock_length": 0.09408679502121542,
+     "num_date": 2014.973837415536,
+     "y_value": 19.0,
+     "children": [
+      {
+       "clock_length": 0.6562995707650452,
+       "num_date": 2015.630136986301,
+       "y_value": 19.5,
+       "strain": "LEAF_18"
+      },
+      {
+       "clock_length": 0.6562995707650447,
+       "num_date": 2015.630136986301,
+       "y_value": 18.5,
+       "strain": "LEAF_19"
+      }
+     ],
+     "num_date_confidence": [
+      2014.7751906452545,
+      2015.417143922368
+     ],
+     "strain": "NODE_00002"
+    },
+    {
+     "clock_length": 0.1621362123963732,
+     "num_date": 2015.0418868329111,
+     "y_value": 15.875,
+     "children": [
+      {
+       "clock_length": 0.32629636837331644,
+       "num_date": 2015.3681832012844,
+       "y_value": 17.0,
+       "children": [
+        {
+         "clock_length": 0.33592638775682504,
+         "num_date": 2015.7041095890413,
+         "y_value": 17.5,
+         "strain": "LEAF_16"
+        },
+        {
+         "clock_length": 0.3140085795379082,
+         "num_date": 2015.6821917808224,
+         "y_value": 16.5,
+         "strain": "LEAF_14"
+        }
+       ],
+       "num_date_confidence": [
+        2015.152726771412,
+        2015.5932371868419
+       ],
+       "strain": "NODE_00003"
+      },
+      {
+       "clock_length": 0.084944165519099,
+       "num_date": 2015.1268309984303,
+       "y_value": 14.75,
+       "children": [
+        {
+         "clock_length": 0.5033059878707862,
+         "num_date": 2015.630136986301,
+         "y_value": 15.5,
+         "strain": "LEAF_20"
+        },
+        {
+         "clock_length": 0.43589935062067564,
+         "num_date": 2015.562730349051,
+         "y_value": 14.0,
+         "children": [
+          {
+           "clock_length": 0.14137923999036595,
+           "num_date": 2015.7041095890413,
+           "y_value": 14.5,
+           "strain": "LEAF_17"
+          },
+          {
+           "clock_length": 0.11946143177145174,
+           "num_date": 2015.6821917808224,
+           "y_value": 13.5,
+           "strain": "LEAF_15"
+          }
+         ],
+         "num_date_confidence": [
+          2015.450883908114,
+          2015.6612391191295
+         ],
+         "strain": "NODE_00004"
+        }
+       ],
+       "num_date_confidence": [
+        2015.1269464409463,
+        2015.5237193682992
+       ],
+       "strain": "NODE_00003"
+      }
+     ],
+     "num_date_confidence": [
+      2014.8687620010705,
+      2015.4245063836668
+     ],
+     "strain": "NODE_00002"
+    }
+   ],
+   "num_date_confidence": [
+    2014.4284017346104,
+    2015.2682314454048
+   ],
+   "strain": "NODE_00001"
+  },
+  {
+   "clock_length": 1.878500808900526,
+   "num_date": 2007.308195054945,
+   "y_value": 10.2578125,
+   "children": [
+    {
+     "clock_length": 5.691804945054104,
+     "num_date": 2012.999999999999,
+     "y_value": 12.5,
+     "strain": "LEAF_13"
+    },
+    {
+     "clock_length": 6.797033674376657,
+     "num_date": 2014.1052287293217,
+     "y_value": 8.015625,
+     "children": [
+      {
+       "clock_length": 0.45457512217135543,
+       "num_date": 2014.559803851493,
+       "y_value": 10.625,
+       "children": [
+        {
+         "clock_length": 3.1360865594662135,
+         "num_date": 2017.6958904109592,
+         "y_value": 11.5,
+         "strain": "LEAF_2"
+        },
+        {
+         "clock_length": 2.8734036426297846,
+         "num_date": 2017.4332074941228,
+         "y_value": 9.75,
+         "children": [
+          {
+           "clock_length": 0.43802538258974794,
+           "num_date": 2017.8712328767124,
+           "y_value": 10.5,
+           "strain": "LEAF_11"
+          },
+          {
+           "clock_length": 0.053863474571960224,
+           "num_date": 2017.4870709686948,
+           "y_value": 9.0,
+           "children": [
+            {
+             "clock_length": 0.3841619080177877,
+             "num_date": 2017.8712328767124,
+             "y_value": 9.5,
+             "strain": "LEAF_9"
+            },
+            {
+             "clock_length": 0.3841619080177877,
+             "num_date": 2017.8712328767124,
+             "y_value": 8.5,
+             "strain": "LEAF_10"
+            }
+           ],
+           "num_date_confidence": [
+            2017.2922699147998,
+            2017.7025129051572
+           ],
+           "strain": "NODE_00005"
+          }
+         ],
+         "num_date_confidence": [
+          2017.182329655056,
+          2017.6509718378759
+         ],
+         "strain": "NODE_00004"
+        }
+       ],
+       "num_date_confidence": [
+        2013.5102890574124,
+        2016.742302687435
+       ],
+       "strain": "NODE_00003"
+      },
+      {
+       "clock_length": 1.679263713580367,
+       "num_date": 2015.7844924429019,
+       "y_value": 5.40625,
+       "children": [
+        {
+         "clock_length": 0.3931753413857848,
+         "num_date": 2016.1776677842877,
+         "y_value": 7.0,
+         "children": [
+          {
+           "clock_length": 1.7291815307808371,
+           "num_date": 2017.9068493150685,
+           "y_value": 7.5,
+           "strain": "LEAF_12"
+          },
+          {
+           "clock_length": 1.542880160917806,
+           "num_date": 2017.7205479452055,
+           "y_value": 6.5,
+           "strain": "LEAF_1"
+          }
+         ],
+         "num_date_confidence": [
+          2016.055193221069,
+          2017.3297942946274
+         ],
+         "strain": "NODE_00004"
+        },
+        {
+         "clock_length": 0.6181455409429528,
+         "num_date": 2016.402637983845,
+         "y_value": 3.8125,
+         "children": [
+          {
+           "clock_length": 0.2116452180620676,
+           "num_date": 2016.614283201907,
+           "y_value": 5.0,
+           "children": [
+            {
+             "clock_length": 1.0788674830245417,
+             "num_date": 2017.6931506849314,
+             "y_value": 5.5,
+             "strain": "LEAF_4"
+            },
+            {
+             "clock_length": 1.0295524145314943,
+             "num_date": 2017.6438356164385,
+             "y_value": 4.5,
+             "strain": "LEAF_5"
+            }
+           ],
+           "num_date_confidence": [
+            2016.2722760116087,
+            2017.1868230724658
+           ],
+           "strain": "NODE_00005"
+          },
+          {
+           "clock_length": 0.13118301141548172,
+           "num_date": 2016.5338209952604,
+           "y_value": 2.625,
+           "children": [
+            {
+             "clock_length": 1.1593296896711276,
+             "num_date": 2017.6931506849314,
+             "y_value": 3.5,
+             "strain": "LEAF_3"
+            },
+            {
+             "clock_length": 0.2181182512350568,
+             "num_date": 2016.7519392464953,
+             "y_value": 1.75,
+             "children": [
+              {
+               "clock_length": 0.8946360959703752,
+               "num_date": 2017.646575342466,
+               "y_value": 2.5,
+               "strain": "LEAF_7"
+              },
+              {
+               "clock_length": 0.20417487277243007,
+               "num_date": 2016.9561141192678,
+               "y_value": 1.0,
+               "children": [
+                {
+                 "clock_length": 0.6904612231979415,
+                 "num_date": 2017.646575342466,
+                 "y_value": 1.5,
+                 "strain": "LEAF_8"
+                },
+                {
+                 "clock_length": 0.6877214971705898,
+                 "num_date": 2017.6438356164385,
+                 "y_value": 0.5,
+                 "strain": "LEAF_6"
+                }
+               ],
+               "num_date_confidence": [
+                2017.0172471467374,
+                2017.5042678743057
+               ],
+               "strain": "NODE_00007"
+              }
+             ],
+             "num_date_confidence": [
+              2016.5671542800767,
+              2017.2765993036498
+             ],
+             "strain": "NODE_00006"
+            }
+           ],
+           "num_date_confidence": [
+            2016.231930038057,
+            2017.1025196649846
+           ],
+           "strain": "NODE_00005"
+          }
+         ],
+         "num_date_confidence": [
+          2016.033527051099,
+          2017.0328223989532
+         ],
+         "strain": "NODE_00004"
+        }
+       ],
+       "num_date_confidence": [
+        2014.7803738245307,
+        2016.9040757612331
+       ],
+       "strain": "NODE_00003"
+      }
+     ],
+     "num_date_confidence": [
+      2011.9244224148108,
+      2015.9551478655821
+     ],
+     "strain": "NODE_00002"
+    }
+   ],
+   "num_date_confidence": [
+    2004.677419816206,
+    2010.929129128753
+   ],
+   "strain": "NODE_00001"
+  }
+ ],
+ "num_date_confidence": [
+  1999.8010807471987,
+  2009.8326733286872
+ ],
+ "strain": "NODE_00000"
+}
