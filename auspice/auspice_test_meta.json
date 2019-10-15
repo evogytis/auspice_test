@@ -12,8 +12,9 @@
    "key": "num_date"
   }
  },
- "geo": {},
- "defaults": {},
+ "defaults": {
+  "colorBy": "num_date"
+ },
  "maintainer": [
   "Gytis Dudas",
   "https://evogytis.github.io/"
