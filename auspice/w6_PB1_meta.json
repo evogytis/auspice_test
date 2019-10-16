@@ -90,8 +90,7 @@
     "latitude": 33.925833,
     "longitude": -117.659722
    }
-  },
-  "map_triplicate": true
+  }
  },
  "filters": [
   "location"
