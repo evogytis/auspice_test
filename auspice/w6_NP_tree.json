@@ -7,7 +7,8 @@
   "num_date_confidence": [
    2001.725221911341,
    2009.7023711833865
-  ]
+  ],
+  "posterior": 1.0
  },
  "branch_length": 0.0,
  "clade": 0,
@@ -21,7 +22,8 @@
     "num_date_confidence": [
      2014.4118942977022,
      2015.2577992089384
-    ]
+    ],
+    "posterior": 1.0
    },
    "branch_length": 8.77976255034837,
    "clade": 1,
@@ -35,7 +37,8 @@
       "num_date_confidence": [
        2014.8207311528995,
        2015.5340047618429
-      ]
+      ],
+      "posterior": 0.5811020997666926
      },
      "branch_length": 0.19706577532121772,
      "clade": 2,
@@ -46,7 +49,7 @@
        "attr": {
         "div": 9.531931594857108,
         "num_date": 2015.6301369863008,
-        "location": "Australia",
+        "location": "SouthGuildford",
         "date": "2015-08-19",
         "raw_date": "2015-08-19"
        },
@@ -60,7 +63,7 @@
        "attr": {
         "div": 9.531931594857108,
         "num_date": 2015.6301369863008,
-        "location": "Australia",
+        "location": "SouthGuildford",
         "date": "2015-08-19",
         "raw_date": "2015-08-19"
        },
@@ -80,7 +83,8 @@
       "num_date_confidence": [
        2014.7368211210476,
        2015.3809277193516
-      ]
+      ],
+      "posterior": 0.4430063326297078
      },
      "branch_length": 0.10657415458680841,
      "clade": 5,
@@ -91,7 +95,7 @@
        "attr": {
         "div": 9.53193159485711,
         "num_date": 2015.6301369863008,
-        "location": "Australia",
+        "location": "SouthGuildford",
         "date": "2015-08-19",
         "raw_date": "2015-08-19"
        },
@@ -108,7 +112,8 @@
         "num_date_confidence": [
          2015.0105926773979,
          2015.5136790684498
-        ]
+        ],
+        "posterior": 0.9935562715253861
        },
        "branch_length": 0.2804083324446007,
        "clade": 7,
@@ -122,7 +127,8 @@
           "num_date_confidence": [
            2015.4518389716015,
            2015.6612391191295
-          ]
+          ],
+          "posterior": 0.9786690367736918
          },
          "branch_length": 0.3012236445883425,
          "clade": 8,
@@ -133,7 +139,7 @@
            "attr": {
             "div": 9.605904197597358,
             "num_date": 2015.704109589041,
-            "location": "Australia",
+            "location": "SiestaPark",
             "date": "2015-09-15",
             "raw_date": "2015-09-15"
            },
@@ -147,7 +153,7 @@
            "attr": {
             "div": 9.583986389378438,
             "num_date": 2015.6821917808222,
-            "location": "Australia",
+            "location": "PointDouro",
             "date": "2015-09-07",
             "raw_date": "2015-09-07"
            },
@@ -167,7 +173,8 @@
           "num_date_confidence": [
            2015.1590409548369,
            2015.5896838766844
-          ]
+          ],
+          "posterior": 0.7872458615709366
          },
          "branch_length": 0.0970955661801205,
          "clade": 11,
@@ -178,7 +185,7 @@
            "attr": {
             "div": 9.60590419759736,
             "num_date": 2015.704109589041,
-            "location": "Australia",
+            "location": "SiestaPark",
             "date": "2015-09-15",
             "raw_date": "2015-09-15"
            },
@@ -192,7 +199,7 @@
            "attr": {
             "div": 9.583986389378438,
             "num_date": 2015.6821917808222,
-            "location": "Australia",
+            "location": "PointDouro",
             "date": "2015-09-07",
             "raw_date": "2015-09-07"
            },
@@ -221,7 +228,8 @@
     "num_date_confidence": [
      2005.085620175924,
      2010.9469236008995
-    ]
+    ],
+    "posterior": 0.8842350849905566
    },
    "branch_length": 1.8594421925040336,
    "clade": 14,
@@ -249,7 +257,8 @@
       "num_date_confidence": [
        2012.2586974474548,
        2015.919533151519
-      ]
+      ],
+      "posterior": 1.0
      },
      "branch_length": 6.321572010047937,
      "clade": 16,
@@ -263,7 +272,8 @@
         "num_date_confidence": [
          2017.2454285641154,
          2017.6918390021717
-        ]
+        ],
+        "posterior": 1.0
        },
        "branch_length": 3.2081779727406246,
        "clade": 17,
@@ -274,7 +284,7 @@
          "attr": {
           "div": 11.77302748526854,
           "num_date": 2017.8712328767124,
-          "location": "California",
+          "location": "WVAL",
           "date": "2017-11-15",
           "raw_date": "2017-11-15"
          },
@@ -288,7 +298,7 @@
          "attr": {
           "div": 11.77302748526854,
           "num_date": 2017.8712328767124,
-          "location": "California",
+          "location": "WVAL",
           "date": "2017-11-15",
           "raw_date": "2017-11-15"
          },
@@ -308,7 +318,8 @@
         "num_date_confidence": [
          2014.2407720525448,
          2016.4031108634924
-        ]
+        ],
+        "posterior": 0.8910121097655817
        },
        "branch_length": 1.0819492790076062,
        "clade": 20,
@@ -319,7 +330,7 @@
          "attr": {
           "div": 11.808643923624642,
           "num_date": 2017.9068493150685,
-          "location": "California",
+          "location": "PLCR",
           "date": "2017-11-28",
           "raw_date": "2017-11-28"
          },
@@ -336,7 +347,8 @@
           "num_date_confidence": [
            2015.875283417241,
            2016.971717835112
-          ]
+          ],
+          "posterior": 1.0
          },
          "branch_length": 1.1335139659945779,
          "clade": 22,
@@ -350,7 +362,8 @@
             "num_date_confidence": [
              2016.204247673645,
              2017.0702904236334
-            ]
+            ],
+            "posterior": 0.265692700811021
            },
            "branch_length": 0.0462959599154229,
            "clade": 23,
@@ -361,7 +374,7 @@
              "attr": {
               "div": 11.622342553761609,
               "num_date": 2017.7205479452055,
-              "location": "California",
+              "location": "ALCO",
               "date": "2017-09-21",
               "raw_date": "2017-09-21"
              },
@@ -378,7 +391,8 @@
               "num_date_confidence": [
                2016.2873136291419,
                2017.192750620833
-              ]
+              ],
+              "posterior": 0.6764248416842573
              },
              "branch_length": 0.16815922444984688,
              "clade": 25,
@@ -389,7 +403,7 @@
                "attr": {
                 "div": 11.59494529348758,
                 "num_date": 2017.6931506849314,
-                "location": "California",
+                "location": "ALCO",
                 "date": "2017-09-11",
                 "raw_date": "2017-09-11"
                },
@@ -403,7 +417,7 @@
                "attr": {
                 "div": 11.545630224994534,
                 "num_date": 2017.6438356164383,
-                "location": "California",
+                "location": "ALCO",
                 "date": "2017-08-24",
                 "raw_date": "2017-08-24"
                },
@@ -426,7 +440,8 @@
             "num_date_confidence": [
              2016.2451921803993,
              2017.079740693647
-            ]
+            ],
+            "posterior": 0.49688923452949674
            },
            "branch_length": 0.07715147702799241,
            "clade": 28,
@@ -440,7 +455,8 @@
               "num_date_confidence": [
                2016.3727687965356,
                2017.218387946952
-              ]
+              ],
+              "posterior": 0.38979002333074103
              },
              "branch_length": 0.06954800220232005,
              "clade": 29,
@@ -451,7 +467,7 @@
                "attr": {
                 "div": 11.597685019515204,
                 "num_date": 2017.695890410959,
-                "location": "California",
+                "location": "ALCO",
                 "date": "2017-09-12",
                 "raw_date": "2017-09-12"
                },
@@ -465,7 +481,7 @@
                "attr": {
                 "div": 11.59494529348758,
                 "num_date": 2017.6931506849314,
-                "location": "California",
+                "location": "ALCO",
                 "date": "2017-09-11",
                 "raw_date": "2017-09-11"
                },
@@ -485,7 +501,8 @@
               "num_date_confidence": [
                2016.6035817797872,
                2017.2688387759606
-              ]
+              ],
+              "posterior": 0.8528496833685146
              },
              "branch_length": 0.34723547178889613,
              "clade": 32,
@@ -496,7 +513,7 @@
                "attr": {
                 "div": 11.548369951021883,
                 "num_date": 2017.6465753424657,
-                "location": "California",
+                "location": "ALCO",
                 "date": "2017-08-25",
                 "raw_date": "2017-08-25"
                },
@@ -513,7 +530,8 @@
                 "num_date_confidence": [
                  2016.90144119495,
                  2017.486753468437
-                ]
+                ],
+                "posterior": 0.9630596600377735
                },
                "branch_length": 0.27052848951691966,
                "clade": 34,
@@ -524,7 +542,7 @@
                  "attr": {
                   "div": 11.77302748526854,
                   "num_date": 2017.8712328767124,
-                  "location": "California",
+                  "location": "WVAL",
                   "date": "2017-11-15",
                   "raw_date": "2017-11-15"
                  },
@@ -541,7 +559,8 @@
                   "num_date_confidence": [
                    2017.0673695040432,
                    2017.5227381423201
-                  ]
+                  ],
+                  "posterior": 0.4122319742250861
                  },
                  "branch_length": 0.08662379395486453,
                  "clade": 36,
@@ -552,7 +571,7 @@
                    "attr": {
                     "div": 11.548369951021877,
                     "num_date": 2017.6465753424657,
-                    "location": "California",
+                    "location": "ALCO",
                     "date": "2017-08-25",
                     "raw_date": "2017-08-25"
                    },
@@ -566,7 +585,7 @@
                    "attr": {
                     "div": 11.545630224994522,
                     "num_date": 2017.6438356164383,
-                    "location": "California",
+                    "location": "ALCO",
                     "date": "2017-08-24",
                     "raw_date": "2017-08-24"
                    },

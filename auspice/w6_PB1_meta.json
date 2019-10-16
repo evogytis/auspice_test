@@ -1,5 +1,5 @@
 {
- "updated": "15 Oct 2019",
+ "updated": "16 Oct 2019",
  "virus_count": 20,
  "author_info": {},
  "annotations": {},
@@ -11,13 +11,27 @@
    "type": "continuous",
    "key": "num_date"
   },
+  "posterior": {
+   "menuItem": "posterior",
+   "legendTitle": "Posterior probability",
+   "type": "continuous",
+   "key": "posterior"
+  },
   "location": {
    "legendTitle": "Location",
    "menuItem": "location",
    "key": "location",
    "color_map": [
     [
-     "Australia",
+     "PointDouro",
+     "#f3701b"
+    ],
+    [
+     "SouthGuildford",
+     "#f3701b"
+    ],
+    [
+     "SiestaPark",
      "#f3701b"
     ],
     [
@@ -25,8 +39,16 @@
      "#A13434"
     ],
     [
-     "California",
+     "ALCO",
      "#7f6e85"
+    ],
+    [
+     "WVAL",
+     "#e1c72f"
+    ],
+    [
+     "PLCR",
+     "#48a365"
     ]
    ]
   }
@@ -40,17 +62,33 @@
  ],
  "geo": {
   "location": {
-   "Australia": {
-    "latitude": -33.865143,
-    "longitude": 151.2099
+   "SouthGuildford": {
+    "latitude": -31.9102,
+    "longitude": 115.9669
+   },
+   "PointDouro": {
+    "latitude": -33.30278,
+    "longitude": 115.69167
+   },
+   "SiestaPark": {
+    "latitude": -33.6553,
+    "longitude": 115.224
    },
    "China": {
     "latitude": 39.913818,
     "longitude": 116.363625
    },
-   "California": {
-    "latitude": 34.052235,
-    "longitude": -118.243683
+   "ALCO": {
+    "latitude": 37.55697,
+    "longitude": -122.07938
+   },
+   "PLCR": {
+    "latitude": 38.739939,
+    "longitude": -121.305636
+   },
+   "WVAL": {
+    "latitude": 33.925833,
+    "longitude": -117.659722
    }
   }
  },
